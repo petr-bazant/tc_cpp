@@ -1,1 +1,4 @@
 .vs/
+x64/
+HelloWorld/x64/
+UnitTests/x64/
